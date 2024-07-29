@@ -1,2 +1,1 @@
-# japr
-# japr
+# jap ransomware
